@@ -9,7 +9,7 @@ This is a link to the [paper](https://link.springer.com/article/10.1007/s11760-0
 ```
 @article{Wang2022,
 title = "Reverse Image Filtering with Clean and Noisy Filters",
-author = "Lizhong Wang and Pierre-Alain Fayolle and Alexander Belyaev",
+author = "Wang, Lizhong and Fayolle, Pierre-Alain and Belyaev, Alexander",
 year = "2022",
 journal = "Signal, Image and Video Processing",
 issn = "1863-1703",
