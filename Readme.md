@@ -13,12 +13,15 @@ The file ```Landweber.m``` contains an implementation of the main approach descr
 ## Reference 
 This is a link to the [paper](https://link.springer.com/article/10.1007/s11760-022-02236-w) where the methods were introduced. The corresponding bibtex entry is  
 ```
-@article{Wang2022,
-title = "Reverse Image Filtering with Clean and Noisy Filters",
+@article{Wang2023,
+title = "Reverse image filtering with clean and noisy filters",
 author = "Wang, Lizhong and Fayolle, Pierre-Alain and Belyaev, Alexander",
-year = "2022",
+year = "2023",
 journal = "Signal, Image and Video Processing",
+volume = "17", 
+pages = "333-341", 
 issn = "1863-1703",
 publisher = "Springer",
+doi = "https://doi.org/10.1007/s11760-022-02236-w", 
 }
 ```
